@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dummy-blog/static/css/main.b2794c70.css",
+    "main.js": "/dummy-blog/static/js/main.f883c0cd.js",
+    "static/media/s2.jpg": "/dummy-blog/static/media/s2.dec357d18d066e849a41.jpg",
+    "static/media/antonio.ttf": "/dummy-blog/static/media/antonio.3923c7ea9a4ecb4b15d3.ttf",
+    "index.html": "/dummy-blog/index.html",
+    "main.b2794c70.css.map": "/dummy-blog/static/css/main.b2794c70.css.map",
+    "main.f883c0cd.js.map": "/dummy-blog/static/js/main.f883c0cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2794c70.css",
+    "static/js/main.f883c0cd.js"
+  ]
+}
